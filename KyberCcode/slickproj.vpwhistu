@@ -1,0 +1,14 @@
+[Global]
+CurrentProject=slickproj.vpj
+[ProjectDates]
+slickproj.vpj=20240730162428685
+[ActiveConfig]
+slickproj.vpj=Debug
+[TreeExpansion2]
+-@ slickproj.vpj
+  - Source Files
+  - Header Files
+  + Resource Files
+  - Bitmaps
+  - Other Files
+scroll:0
